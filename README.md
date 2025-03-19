@@ -5,6 +5,8 @@ The main objective of this project is to detect fraudulent transactions using a 
 ## How the code works:
 Please refer to the attached 'Project Description' PDF for details.
 
-## How to Run the Code: 
-- First, we need to doanload dataset from Kaggle [link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud] then  need to add the path 'FraudTransactionDetection_RFclassifer.ipynb' code   
+## How to Run the Code:
+- First, download the dataset from Kaggle using this [link](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
+- After downloading, update the dataset path in the 'FraudTransactionDetection_RFclassifier.ipynb' code.
+- This project uses external libraries such as TensorFlow, scikit-learn, pandas, and NumPy. Please ensure these libraries are installed before running the code.
 
